@@ -15,3 +15,21 @@
 <h4>Node.js (v14 or higher)</h4>
 <h4>MongoDB (running locally or cloud instance)</h4>
 <h4>API key from WeatherAPI</h4>
+<h1>Installation</h1>
+<h2>Clone the Repository</h2>
+git clone https://github.com/gururajkulkarn/weatherapp_task.git   <br/>
+cd weather-application <br/>
+<h1>Frontend Setup</h1>
+<h3>Navigate to the frontend directory:</h3>
+<p>cd weatherapp</p>
+<h3>Install dependencies:</h3>
+<p>npm install </p>
+<h3>Start the frontend development server:</h3>
+<p>npm run dev</p>
+<h1>Backend Setup</h1>
+<h3>Navigate to the backend directory:</h3>
+<p>cd server   </p>
+<h3>Install dependencies:</h3>
+<p>npm install </p>
+ <h3>Start the backend server:</h3>
+<p>npm run dev</p>
