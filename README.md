@@ -12,3 +12,6 @@
 <b>API:</b> WeatherAPI (for weather data)<br/>
 <h1>Setup Instructions</h1> 
 <h3>Prerequisites<h3/>
+<h4>Node.js (v14 or higher)</h4>
+<h4>MongoDB (running locally or cloud instance)</h4>
+<h4>API key from WeatherAPI</h4>
