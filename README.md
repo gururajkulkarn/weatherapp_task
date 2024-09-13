@@ -10,3 +10,5 @@
 <b>Backend:</b> Node.js, Express.js<br/>
 <b>Database:</b> MongoDB<br/>
 <b>API:</b> WeatherAPI (for weather data)<br/>
+# Setup Instructions <br/>
+# Prerequisites<br/>
